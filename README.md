@@ -1,19 +1,20 @@
 # Hey, whats up?
 **My names Salvatore**
-*Im a 4/5 Computer Engineer*
 
+*Im a 4/5 Computer Engineer*
+---
 > Here is a List of my hobbies
 > and interests
 - Drawing
 - Robotics
 - Playing Video Games
 - Sports
-
+---
 ## Top 3 Favorite Foods
 1. pasteles
 2. Sushi
 3. Hot Dogs
-
+---
 ### Here is some Fibonacci sequence code
 `#include <iostream>
 using namespace std;
