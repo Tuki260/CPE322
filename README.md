@@ -25,6 +25,8 @@
 ---
 
 **This is a picture of me and my girlfriend of 7 years**
-![Me(left) My girlfriend Ashley(Right)]
+![Me(left) My girlfriend Ashley(Right)](https://github.com/user-attachments/assets/ed1e66b1-3fd5-4d3e-a81c-87825d8ee3f0)
+
+
 
 
