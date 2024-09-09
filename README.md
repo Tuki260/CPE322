@@ -10,23 +10,20 @@
 - Sports
 
 ## Top 3 Favorite Foods
-1 pasteles
-2 Sushi
-3 Hot Dogs
+1. pasteles
+2. Sushi
+3. Hot Dogs
 
 ### Here is some Fibonacci sequence code
 `#include <iostream>
 using namespace std;
-
 void fib(int input)
 {
     int x = 1;
     int hold = 1;
     int output = 1;
-
     for(int i = 0; i<input-1; i++) //Creates a loop based of what you set fib to minus 1
     {
-
         if(i==0)    //sets the first two sequences of fibbonaci to 1 and 1 without using math
         cout<< 1 << ", ";
         else if(i==1)
@@ -42,7 +39,6 @@ void fib(int input)
     output = x+hold;
     cout<< output;
 }
-
 int main()
 {
     int smile;
@@ -50,4 +46,7 @@ int main()
     cin >> smile; //User inputs a number 
     fib(smile); //The user input is taken and the fibbonacci sequence is run to that value
 }`
+
+---
+
 
