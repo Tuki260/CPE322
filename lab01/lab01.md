@@ -3,5 +3,5 @@
 ## Lab  01
 
 ### Half adder
-![Half Adder Terminal](haTerminal.png)
-![gtkwave Adder Output](haResult.png)
+![Half Adder Terminal](pictures/haTerminal.png)
+![gtkwave Adder Output](pictures/haResult.png)
